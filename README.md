@@ -16,9 +16,6 @@ docker build -t lexdmm/fullcycle .
 docker run --name golang lexdmm/fullcycle
 </pre>
 
-<pre>
-docker push lexdmm/fullcycle
-</pre>
 
 On docker hub
 [Link:](https://hub.docker.com/repository/docker/lexdmm/fullcycle/general)
